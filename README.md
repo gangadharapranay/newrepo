@@ -1,2 +1,2 @@
 # newrepo
-This is my first git repository
+This is my first git repository. You know i have done it on my own...
